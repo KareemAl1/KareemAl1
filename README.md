@@ -4,7 +4,7 @@
 
 I build polished, production-ready web apps with Next.js, React, and TypeScript. Currently seeking junior-to-mid frontend roles.
 
-- 🌍 Based in Westland, Michigan
+- 🌍 Based in United States
 - 🌐 Portfolio: [portfolio-omega-umber-67.vercel.app](https://portfolio-omega-umber-67.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/kareemalwan](https://linkedin.com/in/kareemalwan)
 - 📧 You can contact me at [kareemalwan47@gmail.com](mailto:kareemalwan47@gmail.com)
