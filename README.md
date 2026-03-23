@@ -1,6 +1,6 @@
 # Hi 👋 My name is Kareem Alwan
 
-### Frontend Developer
+### Frontend Developer | Next.js · React · TypeScript | Building polished web apps
 
 I build polished, production-ready web apps with Next.js, React, and TypeScript. Currently seeking junior-to-mid frontend roles.
 
