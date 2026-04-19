@@ -21,6 +21,7 @@ I build polished, production-ready web apps with Next.js, React, and TypeScript.
 | Skinstric AI | AI-powered skin analysis platform with multi-step UI flows and animations | Next.js, TypeScript, Tailwind CSS v4 | [Live](https://skinstric-ai-ten.vercel.app) | [Repo](https://github.com/KareemAl1/skinstric-ai) |
 | Summarist | Full-stack book summary app with Firebase Auth, Redux, audio player, and debounced search | Next.js, TypeScript, Firebase, Redux | [Live](https://summarist-app-eta.vercel.app) | [Repo](https://github.com/KareemAl1/summarist-app) |
 | NFT Marketplace | Dynamic marketplace with REST API integration, carousels, countdown timers, and AOS animations | React, JavaScript, REST APIs | [Live](https://kareem-internship.vercel.app) | [Repo](https://github.com/KareemAl1/kareem-internship) |
+| FinTrack | Personal finance dashboard with AI-generated monthly summaries, Recharts visualization, and real-time transaction tracking | Next.js, TypeScript, Supabase, Recharts, Anthropic API | [Live](https://fintrack-six-livid.vercel.app) | [Repo](https://github.com/KareemAl1/fintrack) |
 
 ---
 
