@@ -1,36 +1,16 @@
-# Hi 👋 My name is Kareem Alwan
-Frontend Developer | Next.js · React · TypeScript · Node.js | Building polished web apps
+### Kareem Alwan
 
-I build polished, production-ready web apps with Next.js, React, and TypeScript. Currently seeking junior-to-mid frontend or full-stack roles.
+Frontend engineer in Westland, Michigan. I ship React Native features to a live iOS app at CalorAI, and I build 3D and motion-heavy web projects to push my craft. Open to junior frontend and React Native roles, remote or willing to relocate.
 
-- 📍 Based in United States
-- 🌐 Portfolio: [portfolio-v2-iota-kohl.vercel.app](https://portfolio-v2-iota-kohl.vercel.app)
-- 💼 LinkedIn: [linkedin.com/in/kareemAlwan](https://linkedin.com/in/kareemAlwan)
-- ✉️ You can contact me at kareemalwan47@gmail.com
+[Portfolio](https://kareemalwan.vercel.app) | [LinkedIn](https://www.linkedin.com/in/kareemalwan) | kareemalwan47@gmail.com
 
----
+#### Recent work
 
-## 🚀 Projects
+- **[Handheld Studio](https://github.com/KareemAl1/handheld-studio)**: a 3D console you can customize, explode into layers and play a game on. React Three Fiber, Blender.
+- **[Alibi](https://github.com/KareemAl1/alibi)**: a real-time party game for friends on a voice call, with a server that keeps every secret. Node, Socket.IO.
+- **[Sona](https://github.com/KareemAl1/sona-store)**: a storefront for three made-up audio products, with hand-written Web Animations and the whole bag kept in the URL.
+- **[PACE](https://github.com/KareemAl1/pace-studio)**: a running shoe launch told through scroll, with one procedural 3D shoe.
 
-| Project | Description | Stack | Live | GitHub |
-|---|---|---|---|---|
-| CoachDash | AI-powered developer activity tracker with Node.js/Express backend, PostgreSQL database, and Anthropic API coaching summaries | Next.js, TypeScript, Node.js, PostgreSQL | [Live](https://coachdash.vercel.app) | [Repo](https://github.com/KareemAl1/coachdash) |
-| VoiceNote | Voice memo transcription and AI summarization app | Next.js, TypeScript, ElevenLabs API, Anthropic API | [Live](https://voicenote-phi.vercel.app) | [Repo](https://github.com/KareemAl1/voicenote) |
-| FeatureFlow | Real-time feature flag and A/B testing dashboard with WebSockets and PostgreSQL | Next.js, TypeScript, WebSockets, Supabase | [Live](https://featureflow-neon.vercel.app) | [Repo](https://github.com/KareemAl1/featureflow) |
-| LivePulse | Real-time analytics dashboard with live event simulation | Next.js, TypeScript, Recharts, WebSockets | [Live](https://livepulse-gamma.vercel.app) | [Repo](https://github.com/KareemAl1/livepulse) |
-| Skinstric AI | AI-powered skin analysis platform with multi-step UI flows and animations | Next.js, TypeScript, Tailwind CSS v4 | [Live](https://skinstric-ai-ten.vercel.app) | [Repo](https://github.com/KareemAl1/skinstric-ai) |
-| Summarist | Full-stack book summary app with Firebase Auth, Redux, audio player, and debounced search | Next.js, TypeScript, Firebase, Redux | [Live](https://summarist-app-eta.vercel.app) | [Repo](https://github.com/KareemAl1/summarist-app) |
-| NFT Marketplace | Dynamic marketplace with REST API integration, carousels, countdown timers, and AOS animations | React, JavaScript, REST APIs | [Live](https://kareem-internship.vercel.app) | [Repo](https://github.com/KareemAl1/kareem-internship) |
-| FinTrack | Personal finance dashboard with AI-generated monthly summaries, Recharts visualization, and real-time transaction tracking | Next.js, TypeScript, Supabase, Recharts, Anthropic API | [Live](https://fintrack-six-livid.vercel.app) | [Repo](https://github.com/KareemAl1/fintrack) |
-| WellTrack | Personal health and wellness dashboard with AI-written weekly insights, pastel Recharts trends, and one-click demo mode | Next.js · TypeScript · Supabase · Recharts · Anthropic API | [Live](https://welltrack-rust.vercel.app) | [Repo](https://github.com/KareemAl1/welltrack) |
+#### Tools I use most
 
----
-
-## 🛠 Skills
-![JS](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,postgres,firebase,git,figma)
-
----
-
-## 🔗 Socials
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/kareemAlwan)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/KareemAl1)
+TypeScript, React, React Native and Expo, Next.js, Three.js, Node, Swift for native iOS pieces, Vitest and Playwright.
