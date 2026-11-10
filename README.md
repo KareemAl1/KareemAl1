@@ -1,6 +1,6 @@
 ### Kareem Alwan
 
-Frontend engineer in Detroit. I ship React Native features to a live iOS app at CalorAI, and I build 3D and motion-heavy web projects to push my craft. Open to junior frontend and React Native roles, remote or willing to relocate.
+Frontend engineer. I ship React Native features to a live iOS app at CalorAI, and I build 3D and motion-heavy web projects to push my craft. Open to junior frontend and React Native roles, remote or willing to relocate.
 
 [Portfolio](https://kareemalwan.vercel.app) | [LinkedIn](https://www.linkedin.com/in/kareemalwan) | kareemalwan47@gmail.com
 
